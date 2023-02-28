@@ -19,3 +19,7 @@ ipch
 *.suo
 *.VC.db
 *.VC.VC.opendb
+
+## Visual Studio Code and JetBrains IDE artifacts
+.vscode
+.idea
