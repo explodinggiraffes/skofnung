@@ -23,7 +23,7 @@ Changes made to the Skofnung Visual Studio 2022 project:
 
 + Linker
   + Input
-    - Additional Dependencies: 
+    - Additional Dependencies:
       OgreBites.lib
       OgreMain.lib
       OgreRTShaderSystem.lib
